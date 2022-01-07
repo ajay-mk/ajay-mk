@@ -3,7 +3,7 @@ I'm a student, computational chemist and photographer!
 
 #### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/ajay-mk)
-[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/68733884/148511227-a1c79316-5901-4868-846b-c3bb4a8917d8.png" />](https://github.com/ajay-mk)
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>](https://github.com/ajay-mk)
 [<img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/68733884/148506597-5d141d64-937e-478a-850e-b09f1717ea51.png" />](https://github.com/ajay-mk)
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/68733884/148511302-4141837c-4976-4c90-b829-92d510cca40d.png" />](https://github.com/ajay-mk)
 [<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/68733884/148511361-1c8323bd-534c-4a1d-a9b3-05428bc5bdf2.png" />](https://github.com/ajay-mk)
