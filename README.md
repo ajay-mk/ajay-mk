@@ -2,23 +2,23 @@
 I'm a student, computational chemist and photographer!
 
 #### Languages and tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/ajay-mk)
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>](https://github.com/ajay-mk)
-[<img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/68733884/148506597-5d141d64-937e-478a-850e-b09f1717ea51.png" />](https://github.com/ajay-mk)
-[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/68733884/148511302-4141837c-4976-4c90-b829-92d510cca40d.png" />](https://github.com/ajay-mk)
-[<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/68733884/148511361-1c8323bd-534c-4a1d-a9b3-05428bc5bdf2.png" />](https://github.com/ajay-mk)
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />](https://github.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/68733884/148511744-83f45445-1e0e-4ef4-9f44-98f1be69a55a.png" />](https://github.com/ajay-mk)
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://github.com/ajay-mk)
+[<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://github.com/ajay-mk)
+[<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://github.com/ajay-mk)
+[<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />](https://github.com/ajay-mk)
+[<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />](https://github.com/ajay-mk)
+[<img align="left" alt="GitHub" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
+[<img align="left" alt="Terminal" width="30px" src="https://user-images.githubusercontent.com/68733884/148511744-83f45445-1e0e-4ef4-9f44-98f1be69a55a.png" />](https://github.com/ajay-mk)
 <br>
 #### Connect with me:
-[<img align="left" alt="Follow me on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ajaymk16@iisertvm.ac.in)
-[<img align="left" alt="Follow me on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ajaymk_)
-[<img align="left" alt="Follow me on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://in.linkedin.com/in/iamajaymk)
-[<img align="left" alt="Follow me on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ajaymk_)
+[<img align="left" alt="Write an email to me" width="26px" src="https://img.icons8.com/color/96/000000/filled-message.png"/>](mailto:ajaymk16@iisertvm.ac.in)
+[<img align="left" alt="Follow me on Twitter" width="26px" src="https://img.icons8.com/color/96/000000/twitter--v1.png"/>](https://twitter.com/ajaymk_)
+[<img align="left" alt="Follow me on LinkedIn" width="26px" src="https://img.icons8.com/color/96/000000/linkedin-2--v1.png"/>](https://in.linkedin.com/in/iamajaymk)
+[<img align="left" alt="Follow me on Instagram" width="26px" src="<img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png"/>" />](https://instagram.com/ajaymk_)
 <br>
 #### Other profiles:
-[<img align="left" alt="Google Scholar" width="22px" src="https://simpleicons.org/icons/googlescholar.svg" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
-[<img align="left" alt="ORCID" width="22px" src="https://simpleicons.org/icons/orcid.svg" />](https://orcid.org/0000-0002-0079-5443/)
+[<img align="left" alt="Google Scholar" width="26px" src="https://img.icons8.com/color/96/000000/google-scholar--v3.png" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
+[<img align="left" alt="ORCID" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png" />](https://orcid.org/0000-0002-0079-5443/)
 <br>
 <br>
 For any enquiries, write to me at *ajaymk16@iisertvm.ac.in*
