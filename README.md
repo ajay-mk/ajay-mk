@@ -1,6 +1,5 @@
 ### Hi there, I'm Ajay 👋 
-
-## I'm a student, computational chemist and photographer!
+# I'm a student, computational chemist and photographer!
 
 ### Connect with me:
 
