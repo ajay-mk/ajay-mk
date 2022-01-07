@@ -18,5 +18,7 @@ I'm a student, computational chemist and photographer!
 <br>
 #### Other Profiles:
 [<img align="left" alt="Google Scholar" width="22px" src="https://simpleicons.org/icons/googlescholar.svg" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
-[<img align="left" alt="ORCID" width="22px" src="https://simpleicons.org/icons/orcid.svg" />](https://orcid.org/
-0000-0002-0079-5443)
+[<img align="left" alt="ORCID" width="22px" src="https://simpleicons.org/icons/orcid.svg" />](https://orcid.org/0000-0002-0079-5443/)
+<br>
+<br>
+For any enquiries, write to me at **ajaymk16@iisertvm.ac.in*
