@@ -15,3 +15,8 @@ I'm a student, computational chemist and photographer!
 [<img align="left" alt="Follow me on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ajaymk_)
 [<img align="left" alt="Follow me on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://in.linkedin.com/in/iamajaymk)
 [<img align="left" alt="Follow me on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ajaymk_)
+<br>
+#### Other Profiles:
+[<img align="left" alt="Google Scholar" width="22px" src="https://simpleicons.org/icons/googlescholar.svg" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
+[<img align="left" alt="ORCID" width="22px" src="https://simpleicons.org/icons/orcid.svg" />](https://orcid.org/
+0000-0002-0079-5443)
