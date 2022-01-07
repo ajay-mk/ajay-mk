@@ -1,7 +1,7 @@
 ### Hi there, I'm Ajay 👋 
 I'm a student, computational chemist and photographer!
 
-#### Languages and Tools:
+#### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/ajay-mk)
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/68733884/148511227-a1c79316-5901-4868-846b-c3bb4a8917d8.png" />](https://github.com/ajay-mk)
 [<img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/68733884/148506597-5d141d64-937e-478a-850e-b09f1717ea51.png" />](https://github.com/ajay-mk)
@@ -16,9 +16,9 @@ I'm a student, computational chemist and photographer!
 [<img align="left" alt="Follow me on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://in.linkedin.com/in/iamajaymk)
 [<img align="left" alt="Follow me on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ajaymk_)
 <br>
-#### Other Profiles:
+#### Other profiles:
 [<img align="left" alt="Google Scholar" width="22px" src="https://simpleicons.org/icons/googlescholar.svg" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
 [<img align="left" alt="ORCID" width="22px" src="https://simpleicons.org/icons/orcid.svg" />](https://orcid.org/0000-0002-0079-5443/)
 <br>
 <br>
-For any enquiries, write to me at **ajaymk16@iisertvm.ac.in*
+For any enquiries, write to me at *ajaymk16@iisertvm.ac.in*
