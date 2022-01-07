@@ -4,7 +4,7 @@ I'm a student, computational chemist and photographer!
 #### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://github.com/ajay-mk)
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://github.com/ajay-mk)
-[<img align="left" alt="Bash" width="30px" src="https://www.pngfind.com/pngs/m/261-2614514_bash-logo-shell-script-logo-png-transparent-png.png" />](https://github.com/ajay-mk)
+[<img align="left" alt="Bash" width="30px" src="https://user-images.githubusercontent.com/68733884/148506597-5d141d64-937e-478a-850e-b09f1717ea51.png" />](https://github.com/ajay-mk)
 [<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />](https://github.com/ajay-mk)
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />](https://github.com/ajay-mk)
 [<img align="left" alt="GitHub" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
