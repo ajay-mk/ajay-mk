@@ -21,4 +21,3 @@ I'm a student, computational chemist and photographer!
 [<img align="left" alt="ORCID" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png" />](https://orcid.org/0000-0002-0079-5443/)
 <br>
 <br>
-For any enquiries, write to me at *ajaymk16@iisertvm.ac.in*
