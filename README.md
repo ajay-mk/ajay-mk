@@ -1,7 +1,6 @@
 ### Hi there, I'm Ajay 👋 
 ##### I'm a student, computational chemist and photographer!
-- Research fellow at Swathi's Multiscale Modeling Group, IISER Thiruvanthapuram
-- Currently working on modeling bilayer carbon nanostructures
+Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm.ac.in/swathi), [IISER Thiruvanthapuram](https://iisertvm.ac.in)
 
 #### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://github.com/ajay-mk)
