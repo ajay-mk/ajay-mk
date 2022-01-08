@@ -1,5 +1,6 @@
 ### Hi there, I'm Ajay 👋 
-##### I'm a student, computational chemist and photographer!
+I'm a student, computational chemist and photographer!
+<br>
 Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm.ac.in/swathi), [IISER Thiruvanthapuram](https://iisertvm.ac.in)
 
 #### Languages and tools:
