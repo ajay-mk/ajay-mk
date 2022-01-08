@@ -10,11 +10,13 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 [<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />](https://github.com/ajay-mk)
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />](https://github.com/ajay-mk)
 [<img align="left" alt="GitHub" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
+[<img align="left" alt="Git" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://github.com/)
 [<img align="left" alt="Terminal" width="30px" src="https://user-images.githubusercontent.com/68733884/148511744-83f45445-1e0e-4ef4-9f44-98f1be69a55a.png" />](https://github.com/ajay-mk)
 <br>
 
 #### Connect with me:
 [<img align="left" alt="Write an email to me" width="26px" src="https://img.icons8.com/color/96/000000/filled-message.png"/>](mailto:ajaymk16@iisertvm.ac.in)
+[<img align="left" alt="Visit my website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://ajay-mk.github.io)
 [<img align="left" alt="Follow me on Twitter" width="26px" src="https://img.icons8.com/color/96/000000/twitter--v1.png"/>](https://twitter.com/ajaymk_)
 [<img align="left" alt="Follow me on LinkedIn" width="26px" src="https://img.icons8.com/color/96/000000/linkedin-2--v1.png"/>](https://in.linkedin.com/in/iamajaymk)
 [<img align="left" alt="Follow me on Instagram" width="26px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />](https://instagram.com/ajaymk_)
