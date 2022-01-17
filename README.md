@@ -11,6 +11,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />](https://github.com/ajay-mk)
 [<img align="left" alt="GitHub" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
 [<img align="left" alt="Git" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://github.com/)
+[<img align="left" alt="Jupyter" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />](https://github.com/)
 [<img align="left" alt="Terminal" width="30px" src="https://user-images.githubusercontent.com/68733884/148511744-83f45445-1e0e-4ef4-9f44-98f1be69a55a.png" />](https://github.com/ajay-mk)
 <br>
 
