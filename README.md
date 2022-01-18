@@ -16,8 +16,8 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 <br>
 
 #### Connect with me:
-[<img align="left" alt="Write an email to me" width="26px" src="https://img.icons8.com/color/96/000000/filled-message.png"/>](mailto:ajaymk16@iisertvm.ac.in)
 [<img align="left" alt="Visit my website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://ajay-mk.github.io)
+[<img align="left" alt="Write an email to me" width="26px" src="https://img.icons8.com/color/96/000000/filled-message.png"/>](mailto:ajaymk16@iisertvm.ac.in)
 [<img align="left" alt="Follow me on Twitter" width="26px" src="https://img.icons8.com/color/96/000000/twitter--v1.png"/>](https://twitter.com/ajaymk_)
 [<img align="left" alt="Follow me on LinkedIn" width="26px" src="https://img.icons8.com/color/96/000000/linkedin-2--v1.png"/>](https://in.linkedin.com/in/iamajaymk)
 [<img align="left" alt="Follow me on Instagram" width="26px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />](https://instagram.com/ajaymk_)
