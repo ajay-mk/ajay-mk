@@ -1,7 +1,35 @@
-### Hi there, I'm Ajay 👋 
-I'm a student, computational chemist and photographer!
+<div align="center">
+<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" align="center" style="width: 100%" />
+</div>  
 <br>
-Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm.ac.in/swathi), [IISER Thiruvanthapuram](https://iisertvm.ac.in)
+
+### <div align="center">I'm a student, computational chemist and photographer!
+Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm.ac.in/swathi), [IISER Thiruvanthapuram](https://iisertvm.ac.in)</div>  
+
+## Reach out to me:
+<br>
+<div align="center">
+<a href="https://github.com/ajay-mk" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ajaymk_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/ajaymk" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/iamajaymk" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ajaymk_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/> 
 
 #### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://github.com/ajay-mk)
@@ -14,13 +42,6 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 [<img align="left" alt="Terminal" width="30px" src="https://user-images.githubusercontent.com/68733884/148511744-83f45445-1e0e-4ef4-9f44-98f1be69a55a.png" />](https://github.com/ajay-mk)
 <br>
 
-#### Connect with me:
-[<img align="left" alt="Write an email to me" width="26px" src="https://img.icons8.com/color/96/000000/filled-message.png"/>](mailto:ajaymk16@iisertvm.ac.in)
-[<img align="left" alt="Visit my website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://ajay-mk.github.io)
-[<img align="left" alt="Follow me on Twitter" width="26px" src="https://img.icons8.com/color/96/000000/twitter--v1.png"/>](https://twitter.com/ajaymk_)
-[<img align="left" alt="Follow me on LinkedIn" width="26px" src="https://img.icons8.com/color/96/000000/linkedin-2--v1.png"/>](https://in.linkedin.com/in/iamajaymk)
-[<img align="left" alt="Follow me on Instagram" width="26px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />](https://instagram.com/ajaymk_)
-<br>
 
 #### Other profiles:
 [<img align="left" alt="Google Scholar" width="26px" src="https://img.icons8.com/color/96/000000/google-scholar--v3.png" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
