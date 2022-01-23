@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" align="center" style="width: 100%" />
-</div>  
-<br>
 
-### <div align="center">I'm a student, computational chemist and photographer!
+## <div align="center">I'm a student, computational chemist and photographer!
 Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm.ac.in/swathi), [IISER Thiruvanthapuram](https://iisertvm.ac.in)</div>  
 
 ## Reach out to me:
