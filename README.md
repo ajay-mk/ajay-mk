@@ -26,10 +26,6 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 </a>  
 </div>  
   
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/> 
 
 #### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://github.com/ajay-mk)
@@ -46,3 +42,16 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 #### Other profiles:
 [<img align="left" alt="Google Scholar" width="26px" src="https://img.icons8.com/color/96/000000/google-scholar--v3.png" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
 [<img align="left" alt="ORCID" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png" />](https://orcid.org/0000-0002-0079-5443/)
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
