@@ -37,7 +37,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
   
   
 </div>
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 40%;">
   <img src="https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true">
 </div>
 
