@@ -25,7 +25,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 ##
 
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" align="right" width="35%">
+<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" align="right" width="40%">
 
 - Currently learning Flutter
 - Currently working computational chemistry resources 😉
