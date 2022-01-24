@@ -44,7 +44,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 ### My GitHub Statistics
 
-<p align="centre">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&theme=dark&hide_border=false" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-mk&theme=dark&hide_border=false&layout=compact&langs_count=6" />
 </p>
