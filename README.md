@@ -25,7 +25,9 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 ##
 
-<img src="https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true" align="right">
+<h4 align="right">Currently listening to:</h4>
+<img src="https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true" align="right" width="30%">
+
   
 - Currently learning Flutter
 - Currently working computational chemistry resources 😉
