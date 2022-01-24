@@ -22,10 +22,11 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" align="right" width="30%">
-
 
 ##
+
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" align="right" width="35%">
+
 - Currently learning Flutter
 - Currently working computational chemistry resources 😉
 - Ask me about computational chemistry
