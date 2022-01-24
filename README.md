@@ -1,7 +1,12 @@
 
-<center> ### Hi I'm Ajay <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></center>
+### Hi I'm Ajay <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+
 Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm.ac.in/swathi), [IISER Thiruvanthapuram](https://iisertvm.ac.in)
+
 <br>
+<br>
+
 <div align="center">
 <a href="https://github.com/ajay-mk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
