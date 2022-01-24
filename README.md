@@ -40,20 +40,11 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 [<img align="left" alt="Google Scholar" width="26px" src="https://img.icons8.com/color/96/000000/google-scholar--v3.png" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
 [<img align="left" alt="ORCID" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png" />](https://orcid.org/0000-0002-0079-5443/)
 <br>
-<details>
-<summary>
-  <center>More stuff about me:</center>
-  </summary>
-
-#### Research Interests
-  
-#### Publications 
 
 #### My GitHub Statistics
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-mk&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-mk&theme=dark&hide_border=true" />
 </p>
 <br>
-</details>
