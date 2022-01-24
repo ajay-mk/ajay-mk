@@ -49,3 +49,5 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-mk&theme=dark&hide_border=false&layout=compact&langs_count=6" />
 </p>
 <br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajay-mk)](https://github.com/ashutosh00710/github-readme-activity-graph)
