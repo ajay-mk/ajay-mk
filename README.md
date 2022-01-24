@@ -40,8 +40,12 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 [<img align="left" alt="ORCID" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png" />](https://orcid.org/0000-0002-0079-5443/)
 <br>
 
-  
-### My Statistics
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+#### My GitHub Statistics
 
 <br/>
 <p align="left">
@@ -49,3 +53,4 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-mk&theme=dracula&hide_border=true" />
 </p>
 <br>
+</details>
