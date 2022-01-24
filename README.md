@@ -42,7 +42,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 <br>
 <details>
 <summary>
-More stuff about me:
+  <center>More stuff about me:</center>
   </summary>
 
 #### Research Interests
