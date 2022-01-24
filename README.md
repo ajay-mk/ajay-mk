@@ -65,4 +65,4 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 [![Ajay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ajay-mk&theme=github)](https://github.com/ajay-mk)
 
-[![Spotify](https://spotify-readme-ajay-mk.vercel.app//api?theme=dark?rainbow=true/)](https://open.spotify.com)
+[![Spotify](https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true)](https://open.spotify.com)
