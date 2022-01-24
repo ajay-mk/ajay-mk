@@ -50,4 +50,4 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 </p>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajay-mk)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ajay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ajay-mk&theme=github)](https://github.com/ajay-mk)
