@@ -42,7 +42,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
   
 #### Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="border:0 px"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
