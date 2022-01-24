@@ -25,6 +25,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 ##
 
+
 - Currently learning Flutter
 - Currently working computational chemistry resources 😉
 - Ask me about computational chemistry
@@ -33,7 +34,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 - Contact me at :e-mail:: ajaymk16@iisertvm.ac.in
 
 
-<div align="right" width="40%">
+<div style="float: right;" width="30%">
 <img src="https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true">
 </div>
 
