@@ -25,7 +25,9 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 ##
 
-<img src="https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true" align="right" width="40%">
+<div aling="right">
+<img src="https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true" width="50%">
+</div>
 
 - Currently learning Flutter
 - Currently working computational chemistry resources 😉
@@ -65,5 +67,4 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 [![Ajay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ajay-mk&theme=github)](https://github.com/ajay-mk)
 
-[![Spotify](https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true)](https://open.spotify.com)
 
