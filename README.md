@@ -41,12 +41,13 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 <br>
 
   
-#### Github Stats  
+## My Statistics
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 45%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-mk&hide_border=true&layout=compact" align="center" style="width: 45%" />
- 
-
-<br/>  
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-mk&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
