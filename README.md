@@ -1,10 +1,9 @@
-
+<div align="center" markdown="1">
 ### Hi I'm Ajay <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
 Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm.ac.in/swathi), [IISER Thiruvanthapuram](https://iisertvm.ac.in)
-
-<br>
+</div>
 
 <div align="center">
 <a href="https://github.com/ajay-mk" target="_blank">
