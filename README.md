@@ -27,7 +27,6 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 
 <img src="https://spotify-readme-ajay-mk.vercel.app/api?theme=dark&scan=true&rainbow=true" align="right" width="45%">
-<p align="right">Currently listening to</p>
   
 - Currently learning Flutter
 - Currently working computational chemistry resources 😉
@@ -35,7 +34,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 - BS-MS Chemistry graduate from IISER Thiruvananthapuram
 - Portrait and event photographer :camera: - follow my work [here](https://instagram.com/ajaymk_)
 - Contact me at :e-mail:: ajaymk16@iisertvm.ac.in
-  
+- Checkout what I am listening to ➡️ 🎵  
 
 
 
