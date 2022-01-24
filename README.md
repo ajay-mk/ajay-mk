@@ -21,8 +21,9 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 <a href="https://instagram.com/ajaymk_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
+
+#### 
 
 #### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://github.com/ajay-mk)
