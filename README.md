@@ -24,12 +24,12 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 </div>
 
 ##
-- Currently learning Flutter 
+- Currently learning Flutter
 - Currently working computational chemistry resources 😉
 - Ask me about computational chemistry
 - BS-MS Chemistry graduate from IISER Thiruvananthapuram
-- Portrait and event photographer - follow my work [here](https://instagram.com/ajaymk_)
-- Contact me at: ajaymk16@iisertvm.ac.in
+- Portrait and event photographer :camera: - follow my work [here](https://instagram.com/ajaymk_)
+- Contact me at :e-mail:: ajaymk16@iisertvm.ac.in
 
 #### Languages and tools:
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://github.com/ajay-mk)
