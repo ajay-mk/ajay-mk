@@ -49,4 +49,3 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-mk&theme=dark&hide_border=false&layout=compact&langs_count=6" />
 </p>
 <br>
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
