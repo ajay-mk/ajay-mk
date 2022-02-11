@@ -42,6 +42,7 @@ Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.iisertvm
 
 #### Languages and tools:
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://github.com/ajay-mk)
+[<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>](https://github.com/ajay-mk)
 [<img align="left" alt="Bash" width="30px" src="https://user-images.githubusercontent.com/68733884/148506597-5d141d64-937e-478a-850e-b09f1717ea51.png" />](https://github.com/ajay-mk)
 [<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />](https://github.com/ajay-mk)
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />](https://github.com/ajay-mk)
