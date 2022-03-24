@@ -70,6 +70,4 @@ Junior Research fellow at [Swathi's Multiscale Modeling Group](https://faculty.i
 </p>
 <br>
 
-[![Ajay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ajay-mk&theme=github)](https://github.com/ajay-mk)
-
 
