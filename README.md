@@ -27,12 +27,12 @@
 ##
 
   
-- Currently learning Flutter
+- Graduate Student at Department of Chemistry, [Virginia Tech](https://vt.edu)
 - Currently working computational chemistry resources 😉
 - Let's talk about computational chemistry
 - BS-MS Chemistry graduate from IISER Thiruvananthapuram
 - Portrait and event photographer :camera: - follow my work [here](https://instagram.com/ajaymk_)
-- Contact me at :e-mail:: ajaymk16@iisertvm.ac.in
+- Contact me at :e-mail:: ajaymelekamburath@gmail.com
 
 
 
