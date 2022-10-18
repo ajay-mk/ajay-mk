@@ -24,7 +24,7 @@
 ##
 
   
-- Graduate Student at Department of Chemistry, [Virginia Tech](https://vt.edu)
+- Graduate Student at [Valeev Group](https://valeevgroup.github.io), Department of Chemistry, [Virginia Tech](https://vt.edu)
 - Currently working computational chemistry resources
 - BS-MS Chemistry graduate from IISER Thiruvananthapuram
 - Portrait and event photographer :camera: - follow my work [here](https://instagram.com/ajaymk_)
