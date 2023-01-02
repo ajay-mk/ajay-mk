@@ -1,8 +1,8 @@
 <div align="center" markdown="1">
 <!--<h3> Hi I'm Ajay <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12px" alt="hi"></h3>-->
-<h4>Aspiring researcher | Computational Chemistry | Coding, Photography and Football</h4>
+<h4>Graduate Student | Computational Chemistry | Coding, Photography and Football</h4>
 
-[![Website](https://img.shields.io/website?label=ajay-mk.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ajay-mk.github.io)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ajay-mk.github.io)
 
 </div>
 
@@ -10,7 +10,7 @@
 <a href="https://github.com/ajay-mk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/iamajaymk" target="_blank">
+<a href="https://www.linkedin.com/in/ajaymk/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/ajaymk_" target="_blank">
