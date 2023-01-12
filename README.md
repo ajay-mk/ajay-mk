@@ -61,7 +61,7 @@
 <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&theme=dark&hide_border=false" />
 -->
 <p align="center">
-    <img height="172em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-mk&theme=dark&hide_border=false&layout=compact&langs_count=6" />
+    <img height="172em" width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ajay-mk&layout=compact&langs_count=6&hide=css" />
 </p>
 <br>
 
