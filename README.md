@@ -53,11 +53,10 @@
 [<img align="left" alt="ORCID" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png" />](https://orcid.org/0000-0002-0079-5443/)
 <br><br>
 <div align="center">
-  
+</div>
 <!---
 ### My GitHub Statistics
 
-</div>
 <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&theme=dark&hide_border=false" />
 
 <p align="left">
