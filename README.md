@@ -27,7 +27,8 @@
 #### Other profiles:
 [<img align="left" alt="Google Scholar" width="26px" src="https://img.icons8.com/color/96/000000/google-scholar--v3.png" />](https://scholar.google.com/citations?hl=en&user=VC-HIpUAAAAJ)
 [<img align="left" alt="ORCID" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/240px-ORCID_iD.svg.png" />](https://orcid.org/0000-0002-0079-5443/)
-<br><br>
-<p align="left">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ajay-mk&layout=compact&langs_count=6&hide=css" />
-</p>
+<br>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ajay-mk&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ajay-mk&layout=compact&langs_count=6&hide=css&hide_border=true" />
+</div>  
