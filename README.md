@@ -1,5 +1,5 @@
 <div align="center" markdown="1">
-<h4>Graduate Student | Computational Chemistry | Coding, Photography and Football</h4>
+<h4>Graduate Student | Computational Chemistry | Coding and Photography</h4>
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ajay-mk.github.io)
 
@@ -21,7 +21,7 @@
 
   
 - Graduate Student at [Valeev Group](https://valeevgroup.github.io), Department of Chemistry, [Virginia Tech](https://vt.edu)
-- BS-MS Chemistry graduate from IISER Thiruvananthapuram
+- Previously at [R. S. Swathi Group](https://faculty.iisertvm.ac.in/swathi), BS-MS Chemistry from [IISER Thiruvananthapuram](https://iisertvm.ac.in)
 - Open-Source enthusiast, Photographer
 
 #### Other profiles:
