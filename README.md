@@ -20,7 +20,7 @@
 ##
 
   
-- Graduate Student at [Valeev Group](https://valeevgroup.github.io), Department of Chemistry, [Virginia Tech](https://vt.edu)
+- Graduate Student at [Valeev Research Group](https://valeevgroup.github.io), Department of Chemistry, [Virginia Tech](https://vt.edu)
 - Previously at [R. S. Swathi Group](https://faculty.iisertvm.ac.in/swathi), BS-MS Chemistry from [IISER Thiruvananthapuram](https://iisertvm.ac.in)
 - Open-Source enthusiast, Photographer
 
