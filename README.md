@@ -3,12 +3,6 @@
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ajay-mk.github.io)
 
-</div>
-
-<div align="center">
-<a href="https://github.com/ajay-mk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/ajaymk/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -19,7 +13,6 @@
 
 ##
 
-  
 - Graduate Student at [Valeev Research Group](https://valeevgroup.github.io), Department of Chemistry, [Virginia Tech](https://vt.edu)
 - Previously at [R. S. Swathi Group](https://faculty.iisertvm.ac.in/swathi), BS-MS Chemistry from [IISER Thiruvananthapuram](https://iisertvm.ac.in)
 - Open-Source enthusiast, Photographer
