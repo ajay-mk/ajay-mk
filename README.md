@@ -1,5 +1,6 @@
-- Second-year graduate student at [**Valeev Research Group**](https://valeevgroup.github.io), Department of Chemistry, Virginia Tech
+- Third-year graduate student at [**Valeev Research Group**](https://valeevgroup.github.io), Department of Chemistry, Virginia Tech
 - Previously at [**R. S. Swathi Group**](https://faculty.iisertvm.ac.in/swathi), BS-MS Chemistry from IISER Thiruvananthapuram
+- Writing scientific software using C++
 - Open-source enthusiast, Photographer
 ##
 
