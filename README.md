@@ -1,6 +1,6 @@
 - Ph.D. Candidate, [Valeev Research Group](https://valeevgroup.github.io), Department of Chemistry, Virginia Tech  
 - BS-MS in Chemistry, IISER Thiruvananthapuram: [R. S. Swathi Group](https://faculty.iisertvm.ac.in/swathi)
-- Research interests: Many-body electronic structure theory, automated implementations of many-body methods, high-performance computing  
+- Research interests: Higher-order coupled-cluster methods for ground and excited state properties, automated implementations of many-body methods, sybmolic and numerical tensor algebra, high-performance computing  
 - Wrestles daily with C++  
 
 <div align="center" markdown="1">
