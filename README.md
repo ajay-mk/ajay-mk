@@ -45,5 +45,5 @@ Higher-order coupled-cluster methods for ground- and excited-state properties ·
 ### Featured Projects
 
 - **[SeQuant](https://github.com/ValeevGroup/SeQuant)** — C++ framework for symbolic algebra of tensors; derive and numerically evaluate many-body equations.
-- **[MPQC4](https://github.com/ValeevGroup/mpqc)** — massively parallel quantum chemistry package for ab initio electronic structure of molecules and periodic solids.
+- **[MPQC4](https://github.com/ValeevGroup/mpqc4)** — massively parallel quantum chemistry package for ab initio electronic structure of molecules and periodic solids.
 - **[TiledArray](https://github.com/ValeevGroup/tiledarray)** — scalable, block-sparse tensor framework for high-performance tensor arithmetic.
