@@ -19,7 +19,6 @@ Ph.D. Candidate · Computational Chemistry · C++ &amp; HPC
 <a href="https://x.com/ajaymk_" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
 </a>
-
 </div>
 
 ### About
@@ -31,7 +30,7 @@ Ph.D. Candidate · Computational Chemistry · C++ &amp; HPC
 
 ### Research
 
-Higher-order coupled-cluster methods for ground- and excited-state properties · automated implementations of many-body methods · symbolic &amp; numerical tensor algebra · high-performance computing.
+Higher-order coupled-cluster methods for ground- and excited-state properties · Automated implementations of many-body methods · Symbolic &amp; numerical tensor algebra · High-performance computing.
 
 ### Tech Stack
 
