@@ -1,7 +1,6 @@
 <div align="center">
 
 # Ajay Melekamburath
-
 Ph.D. Candidate · Computational Chemistry · C++ &amp; HPC
 
 <a href="https://ajay-mk.github.io" target="_blank">
@@ -41,9 +40,3 @@ Higher-order coupled-cluster methods for ground- and excited-state properties ·
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Eigen](https://img.shields.io/badge/Eigen-1f6feb?style=flat-square)
 ![Boost](https://img.shields.io/badge/Boost-6f42c1?style=flat-square)
-
-### Featured Projects
-
-- **[SeQuant](https://github.com/ValeevGroup/SeQuant)** — C++ framework for symbolic algebra of tensors; derive and numerically evaluate many-body equations.
-- **[MPQC4](https://github.com/ValeevGroup/mpqc4)** — massively parallel quantum chemistry package for ab initio electronic structure of molecules and periodic solids.
-- **[TiledArray](https://github.com/ValeevGroup/tiledarray)** — scalable, block-sparse tensor framework for high-performance tensor arithmetic.
