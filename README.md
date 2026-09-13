@@ -37,6 +37,5 @@ Higher-order coupled-cluster methods for ground- and excited-state properties ·
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Eigen](https://img.shields.io/badge/Eigen-1f6feb?style=flat-square)
 ![Boost](https://img.shields.io/badge/Boost-6f42c1?style=flat-square)
