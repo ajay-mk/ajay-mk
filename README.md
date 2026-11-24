@@ -33,7 +33,7 @@ I work on coupled-cluster methods for ground- and excited-state properties. My c
 
 - [SeQuant](https://github.com/ValeevGroup/SeQuant): symbolic algebra of tensors over operators and scalars; takes a many-body method from equations to numbers. I develop its many-body operator interface, coupled-cluster capabilities, and more.
 - MPQC4: distributed-memory electronic structure package built on [TiledArray](https://github.com/ValeevGroup/tiledarray) and [MADNESS](https://github.com/m-a-d-n-e-s-s/madness). I develop its general-order coupled-cluster code: ground and excited states, linear response, and other properties.
-- [TiledArray](https://github.com/ValeevGroup/tiledarray): massively parallel, block-sparse tensor framework in C++. I work on its GPU support, including `TA::Tensor` on unified memory (`TA::UMTensor`).
+- [TiledArray](https://github.com/ValeevGroup/tiledarray): massively parallel, block-sparse tensor framework in C++. I work on its GPU support, leveraging unified memory.
 - [Katal](https://github.com/ajay-mk/Katal): C++20 einsum front-end for GPU tensor contractions on cuTENSOR.
 
 ### Tech Stack
